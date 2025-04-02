@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+안녕? 난 이승용 이 깃허브 주인이지!
+초보 개발자야
 <!--
 **LEESUNGYOUNG111/LEESUNGYOUNG111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
