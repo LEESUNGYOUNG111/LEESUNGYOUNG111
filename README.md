@@ -1,10 +1,13 @@
-## Hi there 👋
-안녕? 난 이승용 이 깃허브 주인이지!
-초보 개발자야
-<!--
-**LEESUNGYOUNG111/LEESUNGYOUNG111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm 승용!  
+안녕! 한화이글스를 좋아하는 초보 개발자 이승용이야! 
 
-Here are some ideas to get you started:
+### 🌱 현재 배우고 있는 것들
+- Java / Spring Boot 🌿  
+- HTML / CSS / JavaScript 💡  
+- React / TypeScript ⚛️  
+- MySQL / AWS Lightsail ☁️  
+### 📫 연락하기
+- 이메일: `jeung5686@naver.com`. 'jeung2741@gmail.com'  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
