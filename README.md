@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm 승용!  
 안녕! 한화이글스를 좋아하는 초보 개발자 이승용이야! 
 
-### 🌱 현재 배우고 있는 것들
+### 🌱 기술 
 - Java / Spring Boot 🌿  
 - HTML / CSS / JavaScript 💡  
 - React / TypeScript ⚛️  
