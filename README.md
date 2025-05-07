@@ -10,5 +10,6 @@
 - 이메일: `jeung5686@naver.com`. 'jeung2741@gmail.com'  
 
 프로젝트
-https://github.com/kinghama82/M3-Diary.git
+https://github.com/kinghama82/M3-Diary.git,
+
 https://github.com/ppoonging/ONEEND_TEAMPROJECT.git
